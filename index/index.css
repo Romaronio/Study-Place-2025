@@ -206,13 +206,15 @@ h1{
 
 .nav ul li a{
 	text-decoration: none;
-  font-family: 'Montserrat', sans-serif;
   font-size: 9vh;
   text-transform: uppercase;
   font-weight: 800;
+  font-family: "Playwrite AU SA", serif;
+  font-optical-sizing: auto;
+  font-style: italic;
   display: inline-block;
   position: relative;
-  color: #ececee;
+  color: #1f2029;
   transition: all 250ms linear;
 }
 .nav ul li a:hover{
