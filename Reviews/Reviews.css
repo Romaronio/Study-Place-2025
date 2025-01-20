@@ -4,6 +4,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+SA:wght@100..400&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bellota+Text:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
 
 body{
   font-family: 'Montserrat', sans-serif;
@@ -212,10 +215,9 @@ h1{
 	text-decoration: none;
   font-size: 9vh;
   text-transform: uppercase;
-  font-weight: 800;
-  font-family: "Playwrite AU SA", serif;
-  font-optical-sizing: auto;
-  font-style: italic;
+  font-family: "Train One", serif;
+  font-weight: 400;
+  font-style: normal;
   display: inline-block;
   position: relative;
   color: #1f2029;
@@ -317,7 +319,7 @@ h1{
 }
 
 .boxus {
-	background: #666666;
+	background: #99968a;
 	margin: 5%;
   text-align: center;
   margin-top: 10%;
@@ -341,5 +343,13 @@ h1{
   width: 100%;
   border-top: 3px solid #1f2029;
   margin-bottom: 2%;
+}
+
+.textForSchool {
+  font-family: "Bellota Text", serif;
+  font-weight: 400;
+  font-size: 20px;
+  font-style: normal;
+  color: #1f2029;
 }
 
