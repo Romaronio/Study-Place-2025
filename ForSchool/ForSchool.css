@@ -334,3 +334,9 @@ h1{
   font-style: normal;
   color: #1f2029;
 }
+
+.Tg-bot {
+  all: unset;
+  background: #5f5b4c;
+  border-radius: 15px;
+}
